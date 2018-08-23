@@ -1,0 +1,11 @@
+C:\Users\Seth\Workspace\exercises\stockPurchaseDictionaries\bin\Debug\netcoreapp2.1\stockPurchaseDictionaries.deps.json
+C:\Users\Seth\Workspace\exercises\stockPurchaseDictionaries\bin\Debug\netcoreapp2.1\stockPurchaseDictionaries.runtimeconfig.json
+C:\Users\Seth\Workspace\exercises\stockPurchaseDictionaries\bin\Debug\netcoreapp2.1\stockPurchaseDictionaries.runtimeconfig.dev.json
+C:\Users\Seth\Workspace\exercises\stockPurchaseDictionaries\bin\Debug\netcoreapp2.1\stockPurchaseDictionaries.dll
+C:\Users\Seth\Workspace\exercises\stockPurchaseDictionaries\bin\Debug\netcoreapp2.1\stockPurchaseDictionaries.pdb
+C:\Users\Seth\Workspace\exercises\stockPurchaseDictionaries\obj\Debug\netcoreapp2.1\stockPurchaseDictionaries.csprojAssemblyReference.cache
+C:\Users\Seth\Workspace\exercises\stockPurchaseDictionaries\obj\Debug\netcoreapp2.1\stockPurchaseDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Workspace\exercises\stockPurchaseDictionaries\obj\Debug\netcoreapp2.1\stockPurchaseDictionaries.AssemblyInfoInputs.cache
+C:\Users\Seth\Workspace\exercises\stockPurchaseDictionaries\obj\Debug\netcoreapp2.1\stockPurchaseDictionaries.AssemblyInfo.cs
+C:\Users\Seth\Workspace\exercises\stockPurchaseDictionaries\obj\Debug\netcoreapp2.1\stockPurchaseDictionaries.dll
+C:\Users\Seth\Workspace\exercises\stockPurchaseDictionaries\obj\Debug\netcoreapp2.1\stockPurchaseDictionaries.pdb
