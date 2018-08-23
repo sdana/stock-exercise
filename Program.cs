@@ -28,7 +28,7 @@ namespace stockPurchaseDictionaries
 
             foreach ((string ticker, int shares, double price) stock in purchases)
             {
-                if (stocks.ContainsKey(stock.ticker))
+                if (stockValues.ContainsKey(stock.ticker))
                 {
                     double stockValuation = (stock.shares * stock.price);
                     stockValues[stock.ticker] = stockValuation;
@@ -36,13 +36,14 @@ namespace stockPurchaseDictionaries
                 else 
                 {
                     double stockValuation = (stock.shares * stock.price);
-                    stockValues.Add(stock.ticker, stockValuation);
+                    string stockName = (stocks[stock.ticker]);
+                    stockValues.Add(stockName, stockValuation);
                 }
             }
 
             foreach (KeyValuePair<string, double> stockThing in stockValues)
             {
-                System.Console.WriteLine(stockThing);
+                System.Console.WriteLine($"{stockThing.Key} is currently worth: ${stockThing.Value}");
             }
 
         }
